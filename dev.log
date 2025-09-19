@@ -1,0 +1,11 @@
+
+> my-app@0.0.0 dev
+> vite --host 0.0.0.0 --port 5173
+
+5:51:41 AM [vite] (client) Re-optimizing dependencies because lockfile has changed
+error when starting dev server:5:51:42 AM [vite] (client) ✨ new dependencies optimized: lucide-react
+5:51:42 AM [vite] (client) ✨ optimized dependencies changed. reloading
+)
+    at Server.emit (node:events:524:28)
+    at emitErrorNT (node:net:1944:8)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
